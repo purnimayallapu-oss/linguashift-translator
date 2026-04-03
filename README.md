@@ -1,0 +1,1 @@
+# linguashift-translator
